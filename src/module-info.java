@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module ElderScrollsPerkTree {
+	requires junit;
+}
